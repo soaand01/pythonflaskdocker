@@ -42,3 +42,6 @@ docker images<br>
 # Run container.<br>
 docker run -t -d -p 8080:8080 pythonflaskdocker<br>
 
+# List the service<br>
+docker ps<br>
+
